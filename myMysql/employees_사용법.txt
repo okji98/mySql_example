@@ -1,0 +1,6 @@
+1. 압축 풀기
+2. employees 폴더 옮기기 (d:\myMySQL 아래에)
+3. 관리자 권한으로 cmd열기
+4. cd d:\myMySQL\employees
+5. d:\myMySQL\employees> source employees.sql
+6. employees DB 생성 확인 : show databases; 

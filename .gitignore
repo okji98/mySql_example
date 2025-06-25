@@ -1,0 +1,5 @@
+# Database dumps
+*.dump
+*.sql
+*.backup
+myMysql/employees/
